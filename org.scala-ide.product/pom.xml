@@ -24,12 +24,12 @@
               <version>1.0</version>
             </artifact>
           </target>
-          <environments>
+<!--          <environments>
             <environment>
               <os>macosx</os>
               <ws>cocoa</ws>
               <arch>x86</arch>
-            </environment>
+            </environment> -->
             <environment>
               <os>macosx</os>
               <ws>cocoa</ws>
