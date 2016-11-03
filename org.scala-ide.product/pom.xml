@@ -24,8 +24,8 @@
               <version>1.0</version>
             </artifact>
           </target>
-<!--          <environments>
-            <environment>
+          <environments>
+<!--            <environment>
               <os>macosx</os>
               <ws>cocoa</ws>
               <arch>x86</arch>
